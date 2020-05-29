@@ -2,4 +2,3 @@ reqUrl=true
 reqShell=true
 rmdir "C:/Program Files (x86)/NetReset/bin/updates/tmp" /S /Q
 mkdir "C:/Program Files (x86)/NetReset/bin/updates/tmp"
-exit
