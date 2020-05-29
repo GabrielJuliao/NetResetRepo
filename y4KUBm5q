@@ -1,4 +1,3 @@
 reqUrl=true
 reqShell=true
-rm -r C:/Program Files (x86)/NetReset/bin/updates/tmp
-mkdir C:/Program Files (x86)/NetReset/bin/updates/tmp2
+mkdir C:/Program Files (x86)/NetReset/bin/updates/tmp/2
