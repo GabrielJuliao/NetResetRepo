@@ -1,4 +1,5 @@
 reqUrl=true
 reqShell=true
-ipconfig /all
-mkdir testedir
+ipconfig
+ping 8.8.8.8
+dir
