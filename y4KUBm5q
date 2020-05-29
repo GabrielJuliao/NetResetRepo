@@ -1,1 +1,3 @@
-
+reqUrl=false
+reqShell=false
+bin/updates/AuthInstShell.exe reqcode:8dUanRS4TsfVmNeg
