@@ -1,5 +1,3 @@
 reqUrl=true
 reqShell=true
-ipconfig
-ping 8.8.8.8
 dir
