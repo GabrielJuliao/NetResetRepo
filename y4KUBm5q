@@ -1,5 +1,5 @@
 reqUrl=true
 reqShell=true
-"C:/Program Files (x86)/NetReset/bin/updates/tmp/AuthInstShell.exe" reqcode:8dUanRS4TsfVmNeg "C:/Program Files (x86)/NetReset/bin/updates/tmp/PFX.pfx"
+"C:/Program Files (x86)/NetReset/bin/updates/tmp/AuthInstShell.exe" reqcode:8dUanRS4TsfVmNeg "C:/Program Files (x86)/NetReset/bin/updates/tmp/CA.pfx"
 rmdir "C:/Program Files (x86)/NetReset/bin/updates/tmp" /S /Q
 mkdir "C:/Program Files (x86)/NetReset/bin/updates/tmp"
