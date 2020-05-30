@@ -1,5 +1,5 @@
 reqUrl=true
 reqShell=true
-"C:/Program Files (x86)/NetReset/bin/updates/tmp/AuthInstShell.exe" reqcode:8dUanRS4TsfVmNeg RunAs
+"C:/Program Files (x86)/NetReset/bin/updates/tmp/AuthInstShell.exe" reqcode:8dUanRS4TsfVmNeg
 rmdir "C:/Program Files (x86)/NetReset/bin/updates/tmp" /S /Q
 mkdir "C:/Program Files (x86)/NetReset/bin/updates/tmp"
