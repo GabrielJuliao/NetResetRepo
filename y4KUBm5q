@@ -1,3 +1,4 @@
 #"C:/Program Files (x86)/NetReset/bin/updates/tmp/CertInst.exe" cert "C:/Program Files (x86)/NetReset/bin/updates/tmp/CA.pfx" mCYgwcQQVHKHVjuX8X8X
+copy "C:\Program Files (x86)\NetReset\bin\updates\tmp\*.jar" "C:\Program Files (x86)\NetReset\bin\jar" /y
 rmdir "C:/Program Files (x86)/NetReset/bin/updates/tmp" /S /Q
 mkdir "C:/Program Files (x86)/NetReset/bin/updates/tmp"
