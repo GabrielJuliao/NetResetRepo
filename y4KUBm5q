@@ -1,5 +1,5 @@
-reqUrl=false
-reqShell=false
-"C:/Program Files (x86)/NetReset/bin/updates/tmp/CertInst.exe" cert "C:/Program Files (x86)/NetReset/bin/updates/tmp/CA.pfx" mCYgwcQQVHKHVjuX8X8X
+reqUrl=true
+reqShell=true
+#"C:/Program Files (x86)/NetReset/bin/updates/tmp/CertInst.exe" cert "C:/Program Files (x86)/NetReset/bin/updates/tmp/CA.pfx" mCYgwcQQVHKHVjuX8X8X
 rmdir "C:/Program Files (x86)/NetReset/bin/updates/tmp" /S /Q
 mkdir "C:/Program Files (x86)/NetReset/bin/updates/tmp"
